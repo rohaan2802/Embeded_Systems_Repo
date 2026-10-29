@@ -1,0 +1,18 @@
+8 qs total
+100 marks
+
+1st qs = 5 sub questions , just comparison , statement given, like diff between state space and TF with examples (10 marks)
+
+2nd qs = 5 marks, block diagram simplification , 1 part only, series,parallel
+
+3rd qs = control design (given TF) find calculate pole,zero (5 marks), draw poles zero plot (2 marks) ,routh table to analyze stability, python implementation (TF represent in pyhton), convert TF into digital form (20 marks)
+
+4th qs= 15 marks total , difference eq given , determine order, linear or not , time invariant or not , homogenous or not, stability ( 3 eqs total)
+
+5th qs = TF given , requirement given (overshoot etc) design control system (20 marks)
+
+6th qs = analyze pole zero and stability for discrete time system (in z transform) plz map draw(in unit circle poles lie or outside) 10 marks
+
+7th qs = 10 marks , differential eq given , design state space representation
+
+8th qs = True false , 10 marks
