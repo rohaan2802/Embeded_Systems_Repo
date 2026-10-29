@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Embedded IDE build output (Keil, STM32CubeIDE, Arduino, Proteus)
+*.o
+*.obj
+*.elf
+*.map
+*.lst
+*.d
+*.su
+*.uvguix.*
+*.pdsbak
+*.workspace
+build/
+
+# Visual Studio / VS Code and build output
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.user
+*.suo
+
+# Office lock files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
