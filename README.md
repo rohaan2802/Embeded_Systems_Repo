@@ -18,17 +18,33 @@ My Embedded Control of Robotics course work – thirteen lecture sets, textbooks
 
 ## Live Links
 
-| Link | Description |
+| What | Link |
 |---|---|
-| [Repository](https://github.com/rohaan2802/Embeded_Systems_Repo) | github.com/rohaan2802/Embeded_Systems_Repo |
-| [Website](https://rohaan2802.github.io/Embeded_Systems_Repo/) | rohaan2802.github.io/Embeded_Systems_Repo/ |
-| [Download ZIP](https://github.com/rohaan2802/Embeded_Systems_Repo/archive/refs/heads/main.zip) | The whole repository in one file |
-| [Lectures 1–13](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2301) | Start with Lecture 1, then browse the rest |
-| [Assignments](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Assignments) | Assignment statements and solutions |
-| [Quizzes](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Quizes) | My solved quizzes |
-| [Notes](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Notes) | Study notes and Python scripts |
-| [Textbooks](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Books) | Embedded and digital control books |
-| [Final project](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Embeded%20Project) | ROS 2 report and slides |
+| Repository | [rohaan2802/Embeded_Systems_Repo](https://github.com/rohaan2802/Embeded_Systems_Repo) |
+| Website (GitHub Pages) | [rohaan2802.github.io/Embeded_Systems_Repo](https://rohaan2802.github.io/Embeded_Systems_Repo/) |
+| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Embeded_Systems_Repo/archive/refs/heads/main.zip) |
+| Course folder | [Lecture #01](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2301) |
+| Course folder | [Lecture #02](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2302) |
+| Course folder | [Lecture #03](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2303) |
+| Course folder | [Lecture #04](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2304) |
+| Course folder | [Lecture #05](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2305) |
+| Course folder | [Lecture #06](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2306) |
+| Course folder | [Lecture #07](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2307) |
+| Course folder | [Lecture #08](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2308) |
+| Course folder | [Lecture #09](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2309) |
+| Course folder | [Lecture #10](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2310) |
+| Course folder | [Lecture #11](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2311) |
+| Course folder | [Lecture #12](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2312) |
+| Course folder | [Lecture #13](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Lecture%20%2313) |
+| Course folder | [Assignments](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Assignments) |
+| Course folder | [Quizes](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Quizes) |
+| Final project folder | [Embeded Project](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Embeded%20Project) |
+| Final project | [ROS 2 report (i222391_i222390_i222327.pdf)](https://github.com/rohaan2802/Embeded_Systems_Repo/blob/main/Embeded%20Project/i222391_i222390_i222327.pdf) |
+| Study notes | [Notes](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Notes) |
+| Study notes | [P, PI, PID Controllers.pdf](https://github.com/rohaan2802/Embeded_Systems_Repo/blob/main/Notes/P%2C%20PI%2C%20PID%20Controllers.pdf) |
+| Study notes | [pid_controldesign.py](https://github.com/rohaan2802/Embeded_Systems_Repo/blob/main/Notes/pid_controldesign.py) |
+| Other useful path | [Books](https://github.com/rohaan2802/Embeded_Systems_Repo/tree/main/Books) |
+| Other useful path | [LICENSE](https://github.com/rohaan2802/Embeded_Systems_Repo/blob/main/LICENSE) |
 
 ---
 
